@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android_num6_ActivitySwitch</string>
+    <string name="Hw6_B_page">切換 B 頁面</string>
+    <string name="Hw6_A_page">切換 A 頁面</string>
+    <string name="Hw6_green">綠色背景</string>
+    <string name="Hw6_purple">紫色背景</string>
+</resources>
